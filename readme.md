@@ -1,3 +1,3 @@
 # Git fixes
 
-## lalalalalalalala
+## Git fixes Guidance
